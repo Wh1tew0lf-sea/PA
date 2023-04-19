@@ -4,7 +4,7 @@ recommending to https://nju-projectn.github.io/ics-pa-gitbook/ics2022/index.html
 
 use vmware17 pro ubuntu22.04 in this Lab :rose:
 
-right
+right?
 
 no code leak,no short cut
 
